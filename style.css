@@ -1,0 +1,81 @@
+
+#fine{
+    display: flex;
+    
+    gap: 10%;
+}
+#drib{
+    display: flex;
+    justify-content: center;
+}
+#log{
+    display: flex;
+    justify-content: right;
+}
+#line1{
+    
+
+}
+#Hassan{
+    display: flex;
+    justify-content: center;
+}
+#sajan{
+    display: flex;
+    justify-content: right;
+}
+#hs{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
+#person1{
+
+}
+#simp{
+
+}
+#page2{
+    display: flex;
+    justify-content: center;
+    gap: 18%;
+}
+#page3{
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+}
+#page4{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
+#all{
+    
+    
+}
+#page4{
+    display: flex;
+    justify-content: center;
+    
+}
+#last{
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+}
+#butt{
+    color: white;
+    background-color: darkblue;
+}
+#butt2{
+    color: aliceblue;
+    background-color: darkblue;
+}
+#ply{
+    color: darkblue;
+    
+}
+@media all and(max-width:500px){
+    body
+}
